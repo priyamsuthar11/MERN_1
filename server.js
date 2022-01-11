@@ -47,7 +47,7 @@ app.use('/',departmentRoutes)
 
 
 
-
+//server
 app.listen(port, (req, res) => {
   console.log(`listning on ${port} `);
 });
