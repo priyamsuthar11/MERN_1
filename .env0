@@ -1,0 +1,8 @@
+DB = mongodb+srv://priyam:ubuntu@cluster0.d2rws.mongodb.net/forgotpassword?retryWrites=true&w=majority
+HOST = smtp.gmail.com
+USER =priyamsuthar71@gmail.com
+PASS =Priyam@99781316921234
+SERVICE = gmail.com
+BASE_URL = "http://localhost:8080/api"
+
+eifgzdqdqbxktrih
